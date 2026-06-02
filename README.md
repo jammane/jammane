@@ -1,51 +1,82 @@
 # Jeremiah Mane
 
-Software & Automation Engineer
+Software Engineer focused on building backend systems, automation tools, and production-ready infrastructure.
 
-I build systems that automate infrastructure, simulate real-world environments, and turn data into execution.
-
----
-
-## 🔧 Core Strengths
-
-- Backend automation (Python, Java, Bash)
-- CI/CD pipeline engineering (Jenkins, GitHub Actions)
-- Enterprise storage & infrastructure systems (NetApp, SAN/NAS)
-- API design & system integration
-- Data-driven simulation systems
-- Applied ML / evolutionary algorithms
+I design and build systems across multiple languages and environments, choosing the best tool for the job — primarily Python, Java, and SQL.
 
 ---
 
-## 🚀 Featured Work
+## 🧠 What I Do
 
-### 🧠 Evolutionary Trading System
-- Python-based trading simulation platform using evolutionary algorithms
-- Built full market simulation engine (fees, slippage, execution timing)
-- Designed multi-model architecture (per-sector + master allocator)
-- Focus: systems design + experimental ML approaches
-
-### 🏗 Storage Automation Platform (Enterprise)
-- Unified storage automation API across NetApp / IBM / Pure Storage
-- Built CI/CD pipelines for infrastructure deployment
-- Reduced operational overhead through scripting & orchestration
-
-### ⚙️ Infrastructure Tooling
-- Legacy Python 2 → Python 3 migration at scale
-- Monitoring + failover automation systems
-- Internal dashboards and reporting systems (SQL + scripting)
+- Build backend systems and APIs
+- Design automation workflows that replace manual engineering tasks
+- Develop simulation and data-driven systems
+- Work across full-stack and infrastructure layers when needed
+- Focus on systems that are reliable, maintainable, and scalable
 
 ---
 
-## 🧭 What I’m Focused On
+## 🔧 Core Engineering Areas
+
+### Software Systems
+- Backend development (Python, Java, PHP)
+- API design and integration
+- Data processing and system orchestration
+- Relational database design (SQL)
+
+### Automation & Tooling
+- Workflow automation and scripting
+- CI/CD pipeline integration and improvements
+- Internal tooling for engineering efficiency
+- Systems that reduce repetitive operational work
+
+### Infrastructure & DevOps Practices
+- Linux-based environments
+- Build and deployment pipelines (GitHub Actions, Jenkins)
+- Service integration and operational scripting
+- Basic infrastructure design and support
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Trading Simulation System
+A modular simulation engine for testing trading strategies under realistic conditions.
+
+- Market modeling with constraints (fees, slippage, execution timing)
+- Strategy abstraction for experimentation
+- Data-driven performance evaluation
+- Built for extensibility and iterative testing
+
+---
+
+### ⚙️ Automation & Systems Tooling
+A collection of engineering automation tools built to streamline operational workflows.
+
+- Scripts for system automation and data handling
+- API integrations across services
+- Workflow simplification tools for repetitive tasks
+- Focus on reducing manual engineering overhead
+
+---
+
+### 🏗 Engineering Utilities & Experiments
+Small-scale systems and prototypes exploring backend and infrastructure concepts.
+
+- Backend utilities and helper services
+- Experimental system designs
+- Data transformation and processing tools
+
+---
+
+## 🎯 Current Focus
 
 - Backend engineering roles
-- DevOps / platform engineering
-- Automation-heavy infrastructure roles
-- Applied ML systems (not just model training, but execution systems)
+- Software engineering with automation emphasis
+- Platform engineering / DevOps as a secondary direction
+- Building scalable systems and developer tooling
 
 ---
 
 ## 📫 Contact
-- GitHub: github.com/jammane
-- Email: jeremiahmane80@outlook.com
+- GitHub: https://github.com/jammane
