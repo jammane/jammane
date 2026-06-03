@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## Building an Operational Intelligence Platform for Global Storage Infrastructure
 
 ### Situation
@@ -22,3 +24,10 @@ Create a centralized platform to collect data, generate reports, and support sto
 
 ### Technologies
 Python, SQL, PHP, JavaScript, HTML, Microsoft IIS, NetApp, Brocade, PowerShell, Bash
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
