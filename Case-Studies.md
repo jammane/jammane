@@ -1,3 +1,5 @@
+← Back to [Home](README.md)
+
 # Case Studies – Engineering & Automation Portfolio
 
 This collection documents real-world engineering systems I’ve designed, modernized, and supported across enterprise infrastructure, automation platforms, and production environments.
@@ -51,3 +53,12 @@ Led root-cause investigations for Sev-1 storage outages across multi-protocol en
 ### 📄 [Network Administration & Disaster Recovery](Navy-Network-Operations.md)
 
 Managed mission-critical network infrastructure supporting 200+ systems, executing rapid recovery during system failures and improving disaster recovery procedures through training and operational refinement in high-availability environments.
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Home](README.md)
