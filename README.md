@@ -37,6 +37,17 @@ I design and build systems across multiple languages and environments, choosing 
 - Service integration and operational scripting
 - Basic infrastructure design and support
 
+### Automation & Systems Tooling
+- Scripts for system automation and data handling
+- API integrations across services
+- Workflow simplification tools for repetitive tasks
+- Focus on reducing manual engineering overhead
+
+### Engineering Utilities & Experiments
+
+- Backend utilities and helper services
+- Experimental system designs
+- Data transformation and processing tools
 ---
 
 ## 🚀 Featured Projects
@@ -60,25 +71,6 @@ A detailed breakdown of real-world engineering work, architecture decisions, and
 - Navy network operations and disaster recovery systems
 
 👉 [Index of full write-ups](Case-Studies.md)
-
----
-
-### ⚙️ Automation & Systems Tooling
-A collection of engineering automation tools built to streamline operational workflows.
-
-- Scripts for system automation and data handling
-- API integrations across services
-- Workflow simplification tools for repetitive tasks
-- Focus on reducing manual engineering overhead
-
----
-
-### 🏗 Engineering Utilities & Experiments
-Small-scale systems and prototypes exploring backend and infrastructure concepts.
-
-- Backend utilities and helper services
-- Experimental system designs
-- Data transformation and processing tools
 
 ---
 
