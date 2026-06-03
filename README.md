@@ -52,13 +52,17 @@ I design and build systems across multiple languages and environments, choosing 
 
 ## 🚀 Featured Projects
 
-### 🧠 Trading Simulation System
-A modular simulation engine for testing trading strategies under realistic conditions.
+### 🧠 Neural Network Trading System
 
-- Market modeling with constraints (fees, slippage, execution timing)
-- Strategy abstraction for experimentation
-- Data-driven performance evaluation
-- Built for extensibility and iterative testing
+An evolutionary neural network platform that trains per-industry stock trading models across 12 market sectors, plus a master capital allocator — all without backpropagation.
+
+- Evolutionary selection loop: 200 model pool per sector, elite preservation, Gaussian mutation, and diversity injection
+- Custom fill simulation engine: limit orders, stop-loss anchoring, slippage modeling, and Alpaca fee accuracy
+- MasterNN allocator dynamically redistributes capital across sectors with softmax weighting and liquidation triggers
+- `inspect_trades.py` audit tool for examining elite model decisions with full fill-condition explanations
+- Live and paper trading via Alpaca API; parallel inference with numpy vectorization for training throughput
+
+👉 [View Repository](https://github.com/jammane/trading)
 
 ---
 
