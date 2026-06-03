@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## NetApp Hybrid Cloud Feasibility & Cost Analysis (Citco)
 
 ### Situation
@@ -27,3 +29,12 @@ The study required realistic simulation of migration workflows, infrastructure p
 
 ### Technologies
 NetApp ONTAP, AWS (EC2, EBS, storage services), Infrastructure Simulation, Cost Modeling, Hybrid Cloud Architecture Analysis
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
