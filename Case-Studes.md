@@ -32,8 +32,6 @@ Built a centralized operational intelligence system aggregating storage and infr
 
 ---
 
-## ☁️ Citco – Hybrid Infrastructure Evaluation
-
 ### 📄 [NetApp Hybrid Cloud Feasibility & Cost Analysis](Citco-Hybrid-Cloud-Feasibility.md)
 
 Participated as part of a three-engineer team evaluating the technical and financial viability of adopting a NetApp hybrid cloud architecture integrated with AWS. Built and validated full-scale AWS simulation environments to model migration workflows, infrastructure setup, and long-term operational costs, ultimately informing a decision to continue expanding on-premise managed storage due to lower total cost of ownership.
