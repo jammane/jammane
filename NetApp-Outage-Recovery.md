@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## Advanced Outage Recovery & Protocol Analysis (NetApp)
 
 ### Situation
@@ -21,3 +23,12 @@ Rapidly diagnose and restore service across complex, layered infrastructure invo
 
 ### Technologies
 NetApp, Fibre Channel, iSCSI, NFS, SMB/CIFS, packet analysis, storage networking
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
