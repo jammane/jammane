@@ -59,7 +59,7 @@ A detailed breakdown of real-world engineering work, architecture decisions, and
 - Large-scale outage recovery and protocol analysis
 - Navy network operations and disaster recovery systems
 
-👉 [Index of full write-ups](Case_Studies.md)
+👉 [Index of full write-ups](Case-Studies.md)
 
 ---
 
