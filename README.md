@@ -13,6 +13,7 @@ I design and build systems across multiple languages and environments, choosing 
 - Develop simulation and data-driven systems
 - Work across full-stack and infrastructure layers when needed
 - Focus on systems that are reliable, maintainable, and scalable
+- Document engineering work through detailed case studies of real-world systems and production impact
 
 ---
 
@@ -47,6 +48,18 @@ A modular simulation engine for testing trading strategies under realistic condi
 - Strategy abstraction for experimentation
 - Data-driven performance evaluation
 - Built for extensibility and iterative testing
+
+---
+
+### 📄 Case Studies
+A detailed breakdown of real-world engineering work, architecture decisions, and production impact across enterprise systems.
+
+- Storage monitoring platform modernization
+- Enterprise CI/CD automation with ServiceNow + Jenkins
+- Large-scale outage recovery and protocol analysis
+- Navy network operations and disaster recovery systems
+
+👉 [Index of full write-ups](Case_Studies.md)
 
 ---
 
