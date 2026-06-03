@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## Network Administration & Disaster Recovery (U.S. Navy)
 
 ### Situation
@@ -21,3 +23,12 @@ Maintain continuous operational readiness across distributed systems while ensur
 
 ### Technologies
 Windows Server, networking (routing/switching), disaster recovery, system administration
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
