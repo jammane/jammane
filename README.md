@@ -52,17 +52,22 @@ I design and build systems across multiple languages and environments, choosing 
 
 ## 🚀 Featured Projects
 
-### 🧠 Neural Network Trading System
+### 🧠 Evolutionary Neural Network Trading System
 
-An evolutionary neural network platform that trains per-industry stock trading models across 12 market sectors, plus a master capital allocator — all without backpropagation.
+A multi-layer Python trading platform that evolves per-industry stock models 
+using evolutionary algorithms — no backpropagation, no gradient descent.
 
-- Evolutionary selection loop: 200 model pool per sector, elite preservation, Gaussian mutation, and diversity injection
-- Custom fill simulation engine: limit orders, stop-loss anchoring, slippage modeling, and Alpaca fee accuracy
-- MasterNN allocator dynamically redistributes capital across sectors with softmax weighting and liquidation triggers
-- `inspect_trades.py` audit tool for examining elite model decisions with full fill-condition explanations
-- Live and paper trading via Alpaca API; parallel inference with numpy vectorization for training throughput
+- **StockNN models** — independent evolutionary pools (200 models each) per 
+  industry sector, trained via selection, mutation, and weighted-average blending
+- **MasterNN capital allocator** — top-level model using the same FC-injection 
+  architecture to rebalance capital across 12 industry portfolios ($300K total)
+- **Realistic fill simulation** — next-day OHLCV order execution with slippage, 
+  Alpaca regulatory fees, stop-loss anchoring, and sells-before-buys ordering
+- **inspect_trades.py** — audit tool that faithfully replicates training logic 
+  for debugging and elite model decision analysis
+- **NumPy vectorized inference pipeline** for training throughput
 
-👉 [View Repository](https://github.com/jammane/trading)
+👉 [Full architecture, CLI reference, and quick start](https://github.com/jammane/trading)
 
 ---
 
