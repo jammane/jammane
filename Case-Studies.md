@@ -32,7 +32,7 @@ Mentored six engineering interns in automation, scripting, and enterprise workfl
 
 ---
 
-## 🏢 Citco Technology Services
+## 🏢 The Citco Group of Companies
 
 ### 📄 [Global Storage Intelligence & Reporting Platform](Storage-Intelligence-Platform.md)
 
