@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## Mentoring Future Engineers (Allstate)
 
 ### Situation
@@ -15,3 +17,12 @@ Accelerate intern growth while maintaining delivery commitments.
 
 ### Technologies
 Technical Mentoring, Automation Engineering
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
