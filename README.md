@@ -92,4 +92,6 @@ Small-scale systems and prototypes exploring backend and infrastructure concepts
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/jammane
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
