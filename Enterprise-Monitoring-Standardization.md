@@ -1,3 +1,5 @@
+← Back to [Case Studies](Case-Studies.md) | Back to [Home](README.md)
+
 ## Modernizing Enterprise Monitoring Through Platform Standardization (Allstate)
 
 ### Situation
@@ -24,3 +26,12 @@ Restore monitoring capabilities while creating a maintainable foundation for fut
 
 ### Technologies
 Python, Pytest, REST APIs, Jenkins, GitHub, ServiceNow, Enterprise Storage Platforms
+
+---
+
+#### Contact
+- GitHub: [Profile](https://github.com/jammane)
+- LinkedIn: [Profile](https://www.linkedin.com/in/jeremiahmane)
+- Email: [Email Me](mailto:jeremiahmane80@outlook.com)
+
+← Back to [Case Studies](Case-Studies.md)
