@@ -4,6 +4,12 @@
 
 This collection documents real-world engineering systems I’ve designed, modernized, and supported across enterprise infrastructure, automation platforms, and production environments.
 
+## ⭐ Featured Case Studies
+
+- 🥇 [Enterprise CI/CD Automation](Enterprise-CI-CD-Automation.md)
+- 🥈 [Enterprise Monitoring Standardization](Enterprise-Monitoring-Standardization.md)
+- 🥉 [Storage Intelligence Platform](Storage-Intelligence-Platform.md)
+
 ---
 
 ## 🏢 Allstate Insurance (Most Recent)
